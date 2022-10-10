@@ -6,27 +6,54 @@
 
 ## Makers Bootcamp
 
-🌱  Since making that desicion I have completed a 12 week bootcamp at Makers https://github.com/makersacademy to improve my software development skills in a team based environment covering these aspects of development:
+🌱  Since making that desicion I have completed a 12 week bootcamp at Makers https://github.com/makersacademy to improve my software development skills in a team based environment covering these key aspects of development:
 
- * Git / Github, including forking, cloning, branches, and merge conflicts
- * Agile developemnt process
- * Command line 
- * Slack, Trello, Miro, Excalidraw as team tools
- * The 'Golden Square' of Test Driven Development, Object Oriented Design, Debugging, and Paired Programming
- * Ruby, RSpec for unit testing including mocks for peer classes, API requests and terminal IO.
- * Integration tests, and Rubocop linter
- * PostgreSql and Ruby repository classes
- * Sinatra and Embedded Ruby (ERB) app deployed to Heroku
- * Javascript (ES6), unit testing with Jest including mocking API response, and ESlint for code quality
- * Async Javascript, fetch, promises, DOM manipulation, forms, frontend control
- * Express, Node, Javascript app using MongoDB, and Cypress for end-to-end testing
- * 2D sidescroller Phaser game created from scratch and deployed to Heroku
+### Bootcamp Final Project
+* I was in a team of 5 who developed a 2D sidescroller Phaser game from scratch, deployed Heroku here: https://reefrunner.herokuapp.com.
+* The game development repo can be found here: https://github.com/naomischlosser/team-sea-urchins
 
-## Python /Django
+### Tools
+
+* Git / Github, including forking, cloning, branches, and merge conflicts
+* Command line to set up projects and control git
+* VScode including liveshare and git merge editor
+* Slack, Trello, Miro, Excalidraw as team tools
+* Tableplus
+
+### Processes
+
+ * Agile developemnt
+ * The 'Golden Square' of
+     * Test Driven Development
+     * Object Oriented Design
+     * Debugging
+     * Paired Programming
+
+### Languages
+* Ruby, Javascript (ES6), Python, and SQL
+
+### Testing
+* Unit tests and Integration tests
+* RSpec
+* RuboCop
+* Jest
+* ESLint
+* Mocking in both RSpec and Jest for peer classes, API requests and terminal IO
+* Cypress for end-top-end testing
+
+### Web apps
+* BnB web app based on Sinatra and Embedded Ruby (ERB), deployed to Heroku
+* Social media web app based on Express, Node, Javascript, HBS, and MongoDB
+
+### Databases
+* PostgreSQL controlled using Ruby repository classes
+* MongoDB with Javascript controller
+
+## Python and Django
  
-I’ve also built a small web app using Python 3, Django, HTML and CSS and have used OAUTH2 for one of my personal home automation projects. I've grown my understanding of common web security risks (e.g. OWASP Top 10).
+Before the Makers bootcamp I built a small web app using Python 3, Django, HTML and CSS. I've also used OAUTH2 for one of my personal home automation projects and have grown my understanding of common web security risks (e.g. OWASP Top 10).
 
-I have also deployed a simple mobile first CV (HTML and Javascript) using python anywhere.
+I also deployed a simple mobile first CV (HTML and Javascript) using python anywhere.
 
 ## Finally
 
