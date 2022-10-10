@@ -6,7 +6,7 @@
 
 ## Makers Bootcamp
 
-🌱  Since making that desicion I have completed a 12 week bootcamp at Makers https://github.com/makersacademy to improve my software development skills in a team based environment covering these key aspects of development:
+🌱  Since making that desicion I have completed a 12 week bootcamp at Makers https://github.com/makersacademy to improve my software development skills in a team based environment covering several key aspects of development as below:
 
 ### Bootcamp Final Project
 * I was in a team of 5 who developed a 2D sidescroller Phaser game from scratch, deployed here: https://reefrunner.herokuapp.com.
