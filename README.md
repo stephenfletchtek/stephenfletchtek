@@ -1,6 +1,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephenfletchtek&show_icons=true)
 
-## Me
+## About Me
 
 👋 Hi, I’m Stephen Fletcher. After a career in x-ray hardware development - where I was troubleshooter-in-chief for a large high tech engineering firm - I chose to switch domain to software development. Over the years I've built some very transferable knowledge and skills: in product design and development, customer service, fault-finding and diagnosis, team-working, coaching, management and leadership. So I'm far from starting from scratch. 
 
