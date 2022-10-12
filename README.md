@@ -12,7 +12,7 @@ Please see my CV [here](https://github.com/stephenfletchtek/CV).
 
 ## Before Makers
 
-:gear: I worked assiduously to fill knowledge and skill gaps. For back-end development I built a web app using Python 3, Django, and Ruby. I also practiced working with APIs and OAUTH 2.0 for one of my personal home automation projects; and have grown my understanding of common web security risks (e.g. OWASP Top 10).
+:gear: I worked assiduously to fill knowledge and skill gaps. For back-end development I built a web app using Python 3, and Django. I also practiced working with APIs and OAUTH 2.0 for one of my personal home automation projects; and have grown my understanding of common web security risks (e.g. OWASP Top 10).
 
 ## Next
 
